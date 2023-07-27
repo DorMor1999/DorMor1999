@@ -35,3 +35,11 @@ Web design:
 <img src="https://github.com/DorMor1999/readme/assets/89539078/66e74e57-9daf-4db8-aa90-64ae834ee1b9" alt="html icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/ab4ed1ac-79d5-4f5e-8718-434ca1f52cc0" alt="css icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/6c160ab1-7d65-43ef-97f5-a0d8c4342c17" alt="bootstrap icon" height="50px" width="50px">
+
+Programing environments:
+
+<img src="https://github.com/DorMor1999/readme/assets/89539078/bdea201c-38fd-4d28-b7b4-6dc5cd4ab704" alt="vs code icon" height="50px" width="50px">
+<img src="https://github.com/DorMor1999/readme/assets/89539078/006869b3-5cdd-4386-8513-d7093d3c0a7b" alt="vs icon" height="50px" width="50px">
+<img src="https://github.com/DorMor1999/readme/assets/89539078/504fadfa-735f-4115-8d1b-37962cc54bed" alt="eclipse icon" height="50px" width="50px">
+<img src="https://github.com/DorMor1999/readme/assets/89539078/28974ac0-5dce-479b-9dd8-2adacdb20c70" alt="pycharm icon" height="50px" width="50px">
+<img src="https://github.com/DorMor1999/readme/assets/89539078/be783913-5ce0-4fc7-98d8-679a57ea1ec3" alt="jupyter notebook icon" height="50px" width="50px">
