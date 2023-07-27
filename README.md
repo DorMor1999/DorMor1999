@@ -40,6 +40,6 @@ Programing environments:
 
 <img src="https://github.com/DorMor1999/readme/assets/89539078/bdea201c-38fd-4d28-b7b4-6dc5cd4ab704" alt="vs code icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/006869b3-5cdd-4386-8513-d7093d3c0a7b" alt="vs icon" height="50px" width="50px">
-<img src="https://github.com/DorMor1999/readme/assets/89539078/504fadfa-735f-4115-8d1b-37962cc54bed" alt="eclipse icon" height="50px" width="50px">
+<img src="https://github.com/DorMor1999/readme/assets/89539078/b1cc13ee-4f94-4da7-b20f-ce3cc09051ba" alt="eclipse icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/28974ac0-5dce-479b-9dd8-2adacdb20c70" alt="pycharm icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/be783913-5ce0-4fc7-98d8-679a57ea1ec3" alt="jupyter notebook icon" height="50px" width="50px">
