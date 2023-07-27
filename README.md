@@ -1,4 +1,4 @@
-# readme
+# About me
 As an ambitious second-year computer science student with a passion for software development, I am actively seeking a position where I can utilize my strong proficiency in Java, C and Python to contribute to innovative projects. My dedication to continuous learning and professional growth drives me to excel in an environment that nurtures knowledge acquisition and offers opportunities to reach my full potential.
 
 Throughout my academic journey, I have acquired a solid foundation in computer science principles, algorithms, and data structures. I have honed my skills in Java, C and Python through hands-on projects and coursework, demonstrating the ability to solve complex problems and develop efficient, scalable solutions.
