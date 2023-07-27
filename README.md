@@ -10,8 +10,9 @@ Moreover, I am an avid learner, constantly exploring new technologies and seekin
 Beyond technical skills, I possess excellent communication and teamwork abilities, which enable me to effectively collaborate with cross-functional teams and contribute to a positive work culture. I am driven by a strong work ethic and a desire to make a meaningful impact in the field of software development.
 
 Programming languages:
-<img src="https://github.com/DorMor1999/readme/assets/89539078/d7bee084-562e-4a57-bd02-f252a87d02ae" alt="Description of the image" height="30px" width="30px">
-<img src="https://github.com/DorMor1999/readme/assets/89539078/c849e5e8-40cd-4120-a981-610c29d595d9" alt="Description of the image" height="30px" width="30px">
+
+<img src="https://github.com/DorMor1999/readme/assets/89539078/d7bee084-562e-4a57-bd02-f252a87d02ae" alt="Description of the image" height="50px" width="50px">
+<img src="https://github.com/DorMor1999/readme/assets/89539078/c849e5e8-40cd-4120-a981-610c29d595d9" alt="Description of the image" height="50px" width="50px">
 
 
 
