@@ -43,3 +43,6 @@ Programing environments:
 <img src="https://github.com/DorMor1999/readme/assets/89539078/b1cc13ee-4f94-4da7-b20f-ce3cc09051ba" alt="eclipse icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/28974ac0-5dce-479b-9dd8-2adacdb20c70" alt="pycharm icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/be783913-5ce0-4fc7-98d8-679a57ea1ec3" alt="jupyter notebook icon" height="50px" width="50px">
+
+
+<img src="https://camo.githubusercontent.com/6358ce392318abeb61990a10f93183d5de762fd1b47301c60237c00075f36b87/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d64656661756c742367682d6c696768742d6d6f64652d6f6e6c79" alt="Anurag's GitHub stats-Light" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anuraghazra&amp;show_icons=true&amp;theme=default#gh-light-mode-only" style="max-width: 100%;">
