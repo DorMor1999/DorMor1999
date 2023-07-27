@@ -17,6 +17,7 @@ Programming languages:
 <img src="https://github.com/DorMor1999/readme/assets/89539078/7f044f2f-043e-4078-ba03-a9aa1aa4b975" alt="js icon" height="50px" width="50px">
 
 Operating systems:
+
 <img src="https://github.com/DorMor1999/readme/assets/89539078/5234cfb7-9f08-4301-afce-18c3e7075573" alt="windows icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/e873fb9d-4fb4-4873-97e7-6c6e0ff0c1ad" alt="linux icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/e57ba0a2-83f7-47ea-a6d2-a5bdf2075daa" alt="ubuntu icon" height="50px" width="50px">
