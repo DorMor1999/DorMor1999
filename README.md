@@ -30,5 +30,8 @@ Frameworks:
 
 <img src="https://github.com/DorMor1999/readme/assets/89539078/7dbccbf3-0497-4d06-8e65-a5efa4a8b5d5" alt="flask icon" height="50px" width="50px">
 
+Web design:
 
-
+<img src="https://github.com/DorMor1999/readme/assets/89539078/66e74e57-9daf-4db8-aa90-64ae834ee1b9" alt="html icon" height="50px" width="50px">
+<img src="https://github.com/DorMor1999/readme/assets/89539078/ab4ed1ac-79d5-4f5e-8718-434ca1f52cc0" alt="css icon" height="50px" width="50px">
+<img src="https://github.com/DorMor1999/readme/assets/89539078/6c160ab1-7d65-43ef-97f5-a0d8c4342c17" alt="bootstrap icon" height="50px" width="50px">
