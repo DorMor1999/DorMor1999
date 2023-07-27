@@ -22,7 +22,9 @@ Operating systems:
 <img src="https://github.com/DorMor1999/readme/assets/89539078/e873fb9d-4fb4-4873-97e7-6c6e0ff0c1ad" alt="linux icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/e57ba0a2-83f7-47ea-a6d2-a5bdf2075daa" alt="ubuntu icon" height="50px" width="50px">
 
+Databases:
 
+<img src="https://github.com/DorMor1999/readme/assets/89539078/43077756-c125-44ac-ba15-42844e82e616" alt="sqlite3 icon" height="50px" width="50px">
 
 
 
