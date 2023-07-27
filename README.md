@@ -43,3 +43,5 @@ Programing environments:
 <img src="https://github.com/DorMor1999/readme/assets/89539078/b1cc13ee-4f94-4da7-b20f-ce3cc09051ba" alt="eclipse icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/28974ac0-5dce-479b-9dd8-2adacdb20c70" alt="pycharm icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/be783913-5ce0-4fc7-98d8-679a57ea1ec3" alt="jupyter notebook icon" height="50px" width="50px">
+
+<img src="https://camo.githubusercontent.com/05f69986e2e64a5e901f37ec8ccddef9e2fa7a681b13add97923bbc6cf5b2bcf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d646f6e7574" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=donut" style="max-width: 100%;">
