@@ -26,8 +26,9 @@ Databases:
 
 <img src="https://github.com/DorMor1999/readme/assets/89539078/43077756-c125-44ac-ba15-42844e82e616" alt="sqlite3 icon" height="50px" width="50px">
 
+Frameworks:
 
-
+<img src="https://github.com/DorMor1999/readme/assets/89539078/7dbccbf3-0497-4d06-8e65-a5efa4a8b5d5" alt="flask icon" height="50px" width="50px">
 
 
 
