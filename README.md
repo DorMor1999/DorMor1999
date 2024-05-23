@@ -30,6 +30,8 @@ Beyond technical skills, I possess excellent communication and teamwork abilitie
 # Frameworks:
 
 <img src="https://github.com/DorMor1999/readme/assets/89539078/7dbccbf3-0497-4d06-8e65-a5efa4a8b5d5" alt="flask icon" height="50px" width="50px">
+<img src="https://github.com/DorMor1999/readme/assets/89539078/b0db6f1e-f05e-4295-9d85-1ed3859145e0" alt="react icon" height="50px" width="50px">
+<img src="https://github.com/DorMor1999/readme/assets/89539078/35a66bc8-ce09-47d2-92f2-61a55abb0287" alt="express js icon" height="50px" width="50px">
 
 # Web design:
 
