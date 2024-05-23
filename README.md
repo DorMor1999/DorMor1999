@@ -50,3 +50,8 @@ Beyond technical skills, I possess excellent communication and teamwork abilitie
 <img src="https://github.com/DorMor1999/readme/assets/89539078/b1cc13ee-4f94-4da7-b20f-ce3cc09051ba" alt="eclipse icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/28974ac0-5dce-479b-9dd8-2adacdb20c70" alt="pycharm icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/be783913-5ce0-4fc7-98d8-679a57ea1ec3" alt="jupyter notebook icon" height="50px" width="50px">
+
+# Github Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
