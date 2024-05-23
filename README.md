@@ -25,6 +25,7 @@ Beyond technical skills, I possess excellent communication and teamwork abilitie
 # Databases:
 
 <img src="https://github.com/DorMor1999/readme/assets/89539078/43077756-c125-44ac-ba15-42844e82e616" alt="sqlite3 icon" height="50px" width="50px">
+<img src="https://github.com/DorMor1999/readme/assets/89539078/970dbb16-34df-483e-b9a0-491c3f78260d" alt="mongo icon" height="50px" width="50px">
 
 # Frameworks:
 
