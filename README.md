@@ -39,6 +39,10 @@ Beyond technical skills, I possess excellent communication and teamwork abilitie
 <img src="https://github.com/DorMor1999/readme/assets/89539078/ab4ed1ac-79d5-4f5e-8718-434ca1f52cc0" alt="css icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/6c160ab1-7d65-43ef-97f5-a0d8c4342c17" alt="bootstrap icon" height="50px" width="50px">
 
+# Other technological tools
+<img src="https://github.com/DorMor1999/readme/assets/89539078/f8c8e929-4e1f-4d78-adf2-b0a5b767728f" alt="postman icon" height="50px" width="50px">
+<img src="https://github.com/DorMor1999/readme/assets/89539078/89539078/51ab7f9b-c4f8-4bd0-9c29-e7a9f0711c3c" alt="git icon" height="50px" width="50px">
+
 # Programing environments:
 
 <img src="https://github.com/DorMor1999/readme/assets/89539078/bdea201c-38fd-4d28-b7b4-6dc5cd4ab704" alt="vs code icon" height="50px" width="50px">
