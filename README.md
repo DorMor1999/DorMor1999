@@ -41,7 +41,7 @@ Beyond technical skills, I possess excellent communication and teamwork abilitie
 
 # Other technological tools
 <img src="https://github.com/DorMor1999/readme/assets/89539078/f8c8e929-4e1f-4d78-adf2-b0a5b767728f" alt="postman icon" height="50px" width="50px">
-<img src="https://github.com/DorMor1999/readme/assets/89539078/89539078/51ab7f9b-c4f8-4bd0-9c29-e7a9f0711c3c" alt="git icon" height="50px" width="50px">
+<img src="https://github.com/DorMor1999/readme/assets/89539078/076d560b-36af-4162-b775-9a0aca2d8bbf" alt="git icon" height="50px" width="50px">
 
 # Programing environments:
 
