@@ -1,5 +1,5 @@
 # About me
-As a third-year computer science student, I am proficient in Java, C, and Python, seeking a position to apply my skills to innovative projects. I have a solid foundation in computer science principles, algorithms, and data structures, honed through hands-on projects.
+As a third-year computer science student, I am proficient in Java, Javascript, C, and Python, seeking a position to apply my skills to innovative projects. I have a solid foundation in computer science principles, algorithms, and data structures, honed through hands-on projects.
 
 I thrive in dynamic environments, quickly adapting to new technologies. My attention to detail ensures high-quality, user-friendly software. With excellent communication and teamwork skills, I effectively collaborate with cross-functional teams. Driven and eager to learn, I aim to make a meaningful impact in software development.
 
