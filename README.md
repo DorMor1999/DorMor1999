@@ -17,9 +17,7 @@ I thrive in dynamic environments and quickly adapt to new technologies. My atten
 # Databases:
 <img src="https://github.com/DorMor1999/readme/assets/89539078/43077756-c125-44ac-ba15-42844e82e616" alt="sqlite3 icon" height="50px" width="50px">
 <img src="https://github.com/DorMor1999/readme/assets/89539078/970dbb16-34df-483e-b9a0-491c3f78260d" alt="mongo icon" height="50px" width="50px">
-<img src="https://github.com/DorMor1999/readme/assets/PostgreSQL-2.svg…" alt="postgresql icon" height="50px" width="50px">
-![Uploading PostgreSQL-2.svg…]()
-
+<img src="https://www.bairesdev.com/wp-content/uploads/2021/08/PostgreSQL-2.svg" alt="postgresql icon" height="50px" width="50px">
 
 # Frameworks:
 <img src="https://github.com/DorMor1999/readme/assets/89539078/7dbccbf3-0497-4d06-8e65-a5efa4a8b5d5" alt="flask icon" height="50px" width="50px">
