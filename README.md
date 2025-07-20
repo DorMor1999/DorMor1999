@@ -3,7 +3,7 @@ As a Computer Science graduate, I am proficient in Java, JavaScript, C, and Pyth
 
 I thrive in dynamic environments and quickly adapt to new technologies. My attention to detail ensures the development of high-quality, user-friendly software. With excellent communication and collaboration skills, I effectively work with cross-functional teams. Driven and eager to learn, I am committed to making a meaningful impact in software development.
 
-<p><a href="https://portfolio-dor-mor.onrender.com/" >Portfolio</a></p>
+<p><a href="https://portfolio-dor-mor.onrender.com/" >My Portfolio</a></p>
 
 ## Programming Languages:
 <img src="https://github.com/DorMor1999/readme/assets/89539078/d7bee084-562e-4a57-bd02-f252a87d02ae" alt="java icon" height="50px" width="50px">
@@ -43,7 +43,7 @@ I thrive in dynamic environments and quickly adapt to new technologies. My atten
 <img src="https://github.com/DorMor1999/readme/assets/89539078/be783913-5ce0-4fc7-98d8-679a57ea1ec3" alt="jupyter notebook icon" height="50px" width="50px">
 <img src="https://github.com/user-attachments/assets/cf8a7fa6-2415-4ae2-a3ce-91cd99537840" alt="android studio icon" height="50px" width="50px">
 
-# Github Stats
+## Github Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DorMor1999&layout=compact&theme=radical)
 <br/>
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DorMor1999&show_icons=true&theme=radical)
