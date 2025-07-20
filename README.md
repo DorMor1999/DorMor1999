@@ -1,5 +1,5 @@
 # About Me
-As a final-year Computer Science student, I am proficient in Java, JavaScript, C, and Python, and eager to apply my skills to innovative projects. I have a strong foundation in computer science principles, algorithms, and data structures, gained through hands-on project experience.
+As a Computer Science graduate, I am proficient in Java, JavaScript, C, and Python, and eager to apply my skills to innovative projects. I have a strong foundation in computer science principles, algorithms, and data structures, gained through hands-on project experience.
 
 I thrive in dynamic environments and quickly adapt to new technologies. My attention to detail ensures the development of high-quality, user-friendly software. With excellent communication and collaboration skills, I effectively work with cross-functional teams. Driven and eager to learn, I am committed to making a meaningful impact in software development.
 
